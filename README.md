@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Robots App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ![Create React App](https://github.com/KrystynaMil/Robots/blob/main/public/screen.png).
 
 ## Available Scripts
 
